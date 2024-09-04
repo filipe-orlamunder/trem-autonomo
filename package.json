@@ -1,0 +1,15 @@
+{
+  "name": "trem-autonomo",
+  "version": "1.0.0",
+  "description": "Sistema de Controle de Trem Autônomo",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "author": "Filipe Luiz Orlamünder",
+  "license": "MIT"
+}
